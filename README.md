@@ -1,1 +1,3 @@
-# CursoGitKraken
+CursoGitKraken
+
+Practicando primer commit con gitkraken
